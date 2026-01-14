@@ -18,7 +18,7 @@ _LOGGER = logging.getLogger(__name__)
 
 # Cache for loaded country data
 _COUNTRIES_DATA_CACHE = None
-_COUNTRIES_DATA_PATH = "www/community/countries-visited/countries-data.json"
+_COUNTRIES_DATA_PATH = "www/community/countries-visited/dist/countries-data.json"
 
 
 def _load_countries_data(hass):

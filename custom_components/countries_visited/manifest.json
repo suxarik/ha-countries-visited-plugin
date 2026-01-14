@@ -11,7 +11,7 @@
   "frontend": [
     {
       "js_type": "module",
-      "path": "dist/world-map-full.js",
+      "path": "www/community/countries-visited/dist/world-map-full.js",
       "dev": false
     }
   ]
